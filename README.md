@@ -1,4 +1,4 @@
-![N|Solid](https://github.com/mgp25/Instagram-API/raw/master/examples/assets/instagram.png)
+![N|Solid](http://is2.mzstatic.com/image/thumb/Purple111/v4/a0/3d/98/a03d98cb-34ad-06f6-cc1f-225f7e3a97a2/source/175x175bb.jpg)
 
 # Nextdoor iOS Free Item Check
 
